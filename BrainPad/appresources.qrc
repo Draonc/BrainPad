@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>About.png</file>
+        <file>Copy.png</file>
+        <file>Cut.png</file>
+        <file>Dark.png</file>
+        <file>Default.png</file>
+        <file>Delete.png</file>
+        <file>Exit.png</file>
+        <file>New.png</file>
+        <file>Open.png</file>
+        <file>Paste.png</file>
+        <file>Redo.png</file>
+        <file>Save.png</file>
+        <file>Select All.png</file>
+        <file>Undo.png</file>
+        <file>emoticon_tongue.png</file>
+        <file>accept.png</file>
+        <file>tag_orange.png</file>
+        <file>C2-icon.png</file>
+        <file>Interperate.png</file>
+    </qresource>
+</RCC>
